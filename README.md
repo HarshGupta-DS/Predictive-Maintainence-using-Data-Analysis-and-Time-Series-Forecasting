@@ -1,0 +1,2 @@
+# Predictive-Maintainence-using-Time-Series-Forecasting
+Predictive Maintenance avoids the drawbacks of Preventive Maintenance (under utilization of a part's life) and Reactive Maintenance (unscheduled downtime). Based on the health of an equipment in the past, future point of failure can be predicted in Predictive Maintenance. Thus, replacement of parts can be scheduled just before the actual failure.
