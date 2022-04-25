@@ -1,5 +1,6 @@
 # Predictive-Maintainence-using-Data Analysis-&-Time-Series-Forecasting
 
+<img src="https://docs.microsoft.com/en-us/azure/architecture/industries/manufacturing/images/predictive-maintenance-solution/model.png" width="1000"/>
 
 ## Introduction
 Unscheduled equipment downtime can be detrimental for any business. It is critical to keep field equipment running to maximise utilisation and minimise costly, unscheduled downtime and health, safety and environmental risks. The goal of a predictive maintenance strategy is to extend the useful service life of equipment and prevent failures. Anomaly detection is a common approach, because it identifies when a device is behaving differently than expected. Anomaly detection solutions are often more accurate than simple rule-based failure-detection methods and they are useful in the prevention of expensive failures and outages.
